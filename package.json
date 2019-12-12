@@ -49,6 +49,6 @@
       "!./packages/lang-**/**"
     ],
     "coverageDirectory": "coverage",
-    "testEnvironment": "node"
+    "testEnvironment": "node",
   }
 }
